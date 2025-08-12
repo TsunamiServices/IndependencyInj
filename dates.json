@@ -3,12 +3,14 @@
     "user": "Cris",
     "password": "Sigma",
     "key": "01",
-    "SpoofHDWID": "8873fc705639c710"
+    "pc": "01",
+    "SpoofHDWID": "594001e7e832486e"
   },
   {
     "user": "NojeiraRP",
     "password": "nojeira",
     "key": "03",
+    "pc": "02",
     "SpoofHDWID": "8873fc705639c710"
   }
 ]
