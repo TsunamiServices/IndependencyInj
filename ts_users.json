@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "username": "UserAlpha",
+      "hwid": "ABC123DEF456",
+      "license": "Alpha"
+    },
+    {
+      "username": "usuario2",
+      "hwid": "XYZ789GHI012",
+      "license": "LIC67890"
+    }
+  ]
+}
